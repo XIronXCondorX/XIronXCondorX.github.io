@@ -1,10 +1,10 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: George W Meder
+subtitle: A Portfolio Featuring My Skills, Experience And Projects
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://georgem.github.io/" 
+baseurl: ""
 
 # Navigation
 urls:
@@ -16,8 +16,6 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
@@ -25,12 +23,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: George Meder
+author_bio: Hi, my name is George Meder. I built this site using devlopr-jekyll :D
+author_email: "georgewmeder@gmail.com"
+author_location: United States Of America
+author_website_url: "https://georgem.github.io/"
+typewrite-text: Welcome, to my Portfolio. Take a look around and get to know me better.  
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -51,29 +49,29 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_name: Valencia Community College
+                college_url: https://valenciacollege.edu
+                college_degree: Associate of Science
+                description: Business Administration
                 visibility: true
 
 # Projects
 author_project_details:
               - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+                project_title: Snake Watch Face  
+                project_description: A custom watch face for Watches running Wear OS by Google
+                project_url: https://play.google.com/store/apps
                 visibility: true
               - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+                project_title: Pay to Win
+                project_description: A mobile game that is a parody of the Pay to Win model
+                project_url: https://play.google.com/store/apps
                 visibility: true
 
 # social links
-twitter_username: xplor4r
-github_username:  sujaykundu777
-instagram_username: xplor4r
+twitter_username: Iron_Condor
+github_username:  XIronXCondorX
+# instagram_username: johndoe
 # facebook_username: johndoe
 # linkedin_username: johndoe
 # behance_username: johndoe
@@ -88,10 +86,10 @@ instagram_username: xplor4r
 # hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: N/A
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: 
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
