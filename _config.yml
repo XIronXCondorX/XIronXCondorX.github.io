@@ -1,54 +1,53 @@
-title: George W Meder
-subtitle: A Portfolio Featuring My Skills, Experience And Projects
-description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+# FILE: _config.yml
 
+# Description
+description: "devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability."
+
+# Site settings
 url: "https://XIronXCondorX.github.io" 
 baseurl: ""
 
 # Navigation
 urls:
-    - text: Home
-      url: /
-    - text: About
-      url: /about
-    - text: Blog
-      url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Contact
-      url : /contact
-
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Blog
+    url: /blog
+  - text: Gallery
+    url: /gallery
+  - text: Contact
+    url: /contact
 
 # Edit Author details (For multi authors check _data/authors.yml)
-
 author_logo: profile.png
 author: George Meder
-author_bio: Hi, my name is George Meder. I built this site using devlopr-jekyll :D
+author_bio: "Hi, my name is George Meder. I built this site using devlopr-jekyll :D"
 author_email: "georgewmeder@gmail.com"
-author_location: United States Of America
+author_location: "United States Of America"
 author_website_url: "https://georgem.github.io/"
-typewrite-text: Welcome, to my Portfolio. Take a look around and get to know me better.  
+typewrite-text: "Welcome, to my Portfolio. Take a look around and get to know me better."
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+  - company_name: Google
+    company_logo: google.png
+    company_url: https://google.com
+    designation: Software Engineer
+    description: Worked on various Google Products
+    visibility: true
+  - company_name: Microsoft
+    company_logo: microsoft.png
+    company_url: https://microsoft.com
+    designation: Azure Developer
+    description: Worked on various Azure Cloud Products
+    visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: valencia.png
                 college_name: Valencia Community College
                 college_url: https://valenciacollege.edu
                 college_degree: Associate of Science
@@ -57,12 +56,12 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
+              - project_thumbnail: snakewatch.png
                 project_title: Snake Watch Face  
                 project_description: A custom watch face for Watches running Wear OS by Google
                 project_url: https://play.google.com/store/apps
                 visibility: true
-              - project_thumbnail: hack4r.PNG
+              - project_thumbnail: paytowin.PNG
                 project_title: Pay to Win
                 project_description: A mobile game that is a parody of the Pay to Win model
                 project_url: https://play.google.com/store/apps
