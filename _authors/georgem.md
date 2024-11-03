@@ -1,6 +1,6 @@
 ---
 name: George Meder
-username: xironxcondorx
+username: georgem
 bio: "Hi I am George, a Junior Web and Game Developer."
 site: https://xironxcondorx.github.io
 avatar: george.png
